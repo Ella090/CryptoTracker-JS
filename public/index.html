@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crypto Tracker</title>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body class="bg-gry-50 flex justify-center items-center min-h-screen">
+    <div class="container max-w-4xl mx-auto p-6 bg-white shadow-xl rounded-md">
+        <div class="flex items-center mb-10">
+            <img src="../images/logo.png" alt="Crypto Tracker Logo" class="h-20 mr-5">
+            <h1 class="text-4xl font-bold text-blue-900 font-roboto">Crypto Tracker</h1>
+        </div>
+        <div class="text-center mb-4">
+            <button id="refreshBtn" class="bg-orange-600 text-white px-4 py-2 rounded-lg font-medium font-opensans">Refresh Data</button>
+        </div>
+        <div class="text-center mb-4">
+            <input type="text" id="searchInput" placeholder="Search for a cryptocurrency" class="w-full max-w-xs px-4 py-2 border rounded focus:border-blue-500 focus:outline-none">
+        </div>
+        <div id="cryptoList" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
