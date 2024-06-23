@@ -33,39 +33,7 @@ Crypto Tracker is a web application that fetches and displays cryptocurrency dat
 
 3. Open `index.html` in your browser to view the application.
 
-## Adding the Project to GitHub
 
-1. Initialize a new Git repository:
-
-    ```bash
-    git init
-    ```
-
-2. Add all the project files to the repository:
-
-    ```bash
-    git add .
-    ```
-
-3. Commit the changes:
-
-    ```bash
-    git commit -m "Initial commit"
-    ```
-
-4. Create a new repository on GitHub. Do not initialize it with a README, .gitignore, or license.
-
-5. Add the remote repository:
-
-    ```bash
-    git remote add origin https://github.com/your-username/crypto-tracker.git
-    ```
-
-6. Push the changes to GitHub:
-
-    ```bash
-    git push -u origin master
-    ```
 
 ## Usage
 
