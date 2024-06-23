@@ -35,9 +35,6 @@ Crypto Tracker is a web application that fetches and displays cryptocurrency dat
     ```
 
 3. Open `index.html` in your browser to view the application.
-    ```bash
-    open index.html
-    ```
 
 
 
