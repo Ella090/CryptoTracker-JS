@@ -1,5 +1,4 @@
 # CryptoTracker-JS
-# Crypto Tracker
 
 Crypto Tracker is a web application that fetches and displays cryptocurrency data using the CoinCap API. It allows users to refresh the data, search for specific cryptocurrencies, and see the price and 24-hour change for each cryptocurrency.
 
@@ -22,13 +21,13 @@ Crypto Tracker is a web application that fetches and displays cryptocurrency dat
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/crypto-tracker.git
+    git clone https://github.com/Ella090/CryptoTracker-JS.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd crypto-tracker
+    cd CryptoTracker-JS
     ```
 
 3. Open `index.html` in your browser to view the application.
