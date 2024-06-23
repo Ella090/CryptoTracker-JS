@@ -21,7 +21,7 @@ Crypto Tracker is a web application that fetches and displays cryptocurrency dat
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/Ella090/CryptoTracker-JS.git
+    git clone https://github.com/Ella090/CryptoTrackerDash.git
     ```
 
 2. Navigate to the project directory:
