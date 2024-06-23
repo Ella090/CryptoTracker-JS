@@ -25,9 +25,13 @@ Crypto Tracker is a web application that fetches and displays cryptocurrency dat
     ```
 
 2. Navigate to the project directory:
-
     ```bash
     cd CryptoTracker-JS
+    ```
+
+3. Navigate to the `public` directory:
+    ```bash
+    cd public
     ```
 
 3. Open `index.html` in your browser to view the application.
